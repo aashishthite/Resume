@@ -19,7 +19,7 @@
  
 
 \address{thite@wisc.edu\\(408) 601-9349\\https://github.com/aashishthite‎}
-\address{2110 University Avenue, Apt. 104, \\Madison, WI-53726\\USA.}
+\address{2110 University Avenue, Apt. 104, \\Madison, WI-53726,\\USA.}
 
  
 \begin{resume} 
@@ -31,7 +31,7 @@
 {\bf University of Wisconsin-Madison} \\
 M.S. Electrical and Computer Engineering \hfill {\it May 2014(expected)} \\
 Received full tuition scholarship with Research Assistantship \\
-- GPA: 3.68/4 \\
+- GPA: 3.69/4 \\
 Academic Projects: 3D Reconstruction using Kinect, HDR Image Fusion, MoshBall, Panoramic Image Stitching, Photo-metric Stereo, Music Recommendation System, Spam Classification, Othello.
 \\ \\
 {\bf Vishwakarma Institute of Technology-Pune} \\
@@ -60,7 +60,7 @@ Project Assistant\hfill {\it Sept 2012 - Aug 2013}
   {\bf Scicom Software India Pvt. Ltd.,} \\
 Project Intern\hfill{\it Aug 2011 - July 2012}
  \begin{itemize} \itemsep -2pt  % reduce space between items
- \item End-to-end development of a simulator software for a control system using C\#. This reduced the time-to-market by 33\% and earned a new project for the organization.
+ \item Designed and developed a simulator software for a control system using C\#. This reduced the time-to-market by 33\% and earned a new project for the organization.
  \item Worked with a team in design of hardware for the control system. Reduced product cost by 25\% of the budget. Followed German safety standards. 
  \item End-to-end development of a video inspection tool using C++ and DirectShow.
  \end{itemize}

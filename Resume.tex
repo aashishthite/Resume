@@ -4,6 +4,10 @@
 \documentclass[margin]{res} 
 % the margin option causes section titles to appear to the left of body text 
 \textwidth=5.4in % increase textwidth to get smaller right margin
+\textheight=10in
+\topmargin=-0.3in
+\oddsidemargin -.25in
+\evensidemargin -.5in
 %\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
 %\usepackage{newcent}   % uses new century schoolbook postscript font 
 \usepackage{fancyhdr}
@@ -18,25 +22,23 @@
 \name{AASHISH THITE\\[12pt]} % the \\[12pt] adds a blank line after name
  
 
-\address{thite@wisc.edu\\(408) 601-9349\\https://github.com/aashishthite‎}
-\address{2110 University Avenue, Apt. 104, \\Madison, WI-53726,\\USA.}
+\address{thite@wisc.edu\\www.linkedin.com/in/aashishthite\\https://github.com/aashishthite‎}
+\address{\hfill 2110 University Avenue, Apt. 104, \\ \hfill Madison, WI-53726, USA.\\ \hfill (408) 601-9349}
 
  
 \begin{resume} 
  
-%\section{Objective} 
-%Seeking a full-time position in software application development focused on Computer Vision, Computer Graphics and Machine Learning.
+\section{Objective} 
+Seeking a full-time position in software application development.% focused on Computer Vision, Computer Graphics and Machine Learning.
 
 \section{Education} 
 {\bf University of Wisconsin-Madison} \\
-M.S. Electrical and Computer Engineering \hfill {\it May 2014(expected)} \\
+M.S. Electrical and Computer Engineering (GPA: 3.67/4) \hfill {\it May 2014(expected)} \\
 Received full tuition scholarship with Research Assistantship \\
-- GPA: 3.67/4 \\
-Academic Projects: 3D Reconstruction using Kinect, HDR Image Fusion, MoshBall, Panoramic Image Stitching, Photo-metric Stereo, Music Recommendation System, Spam Classification, Othello.
-\\ \\
+\\
 {\bf Vishwakarma Institute of Technology-Pune} \\
-B.E. in Electronics and Telecommunications Engineering \hfill {\it May 2011} \\
-- GPA: 8.77/10
+B.E. in Electronics and Telecommunications Engineering (GPA: 8.77/10) \hfill {\it May 2011}
+
 \section{Skills}
 Strong Math background, C++ (proficient), Java (proficient), MATLAB (proficient), C (competent), C\# (prior experience), CUDA, OpenCV, OpenGL, OpenCL, UNIX/Linux.
 
@@ -45,34 +47,40 @@ Algorithms, Computer Vision, Machine Learning, Computer Graphics, Operating Syst
 
 \section{Experience}
  {\bf University of Wisconsin-Madison,} Dept. of Computer Sciences \\
-Research Assistant\hfill {\it May 2013 - present}
+Research Assistant (Computer Vision)\hfill {\it May 2013 - present}
  \begin{itemize} \itemsep -2pt  % reduce space between items
  \item Designed a novel algorithm for denoising images using multiple views.
- \item Used CUDA C to make this highly parallel algorithm run 4 times as fast as other known multiple view denoising algorithms. 
+ \item Used CUDA C to make this highly parallel algorithm run four times as fast as other known multiple view denoising algorithms. 
  \end{itemize}
 
   {\bf University of Wisconsin-Madison,} Dept. of Botany \\
 Project Assistant\hfill {\it Sept 2012 - Aug 2013}
  \begin{itemize} \itemsep -2pt  % reduce space between items
- \item Developed a tool in MATLAB for tracking texture on hypocotyls for analysis of plant growth.
- \item The tool is published on iPlant Collaborative to for botanists world-wide who study plant growth.
+ \item Developed a tool in MATLAB for tracking texture on hypocotyls for analysis of plant growth. The tool is published on iPlant Collaborative to for botanists world-wide who study plant growth.
  \end{itemize}
-  {\bf Scicom Software India Pvt. Ltd.,} \\
+  {\bf Scicom Software India Pvt. Ltd.} \\
 Project Intern\hfill{\it Aug 2011 - July 2012}
  \begin{itemize} \itemsep -2pt  % reduce space between items
  \item Designed and developed a simulator software for a control system using C\#. This reduced the time-to-market by 33\% and earned a new project for the organization.
  \item Worked with a team in design of hardware for the control system. Reduced product cost by 25\% of the budget. Followed German safety standards. 
  \item End-to-end development of a video inspection tool using C++ and DirectShow.
  \end{itemize}
+\section{Projects}
+{\it Real-time 3D Reconstruction using Kinect:} Performed bilateral filtering on depth map. Rendered implicit surfaces using Signed Distance Function. {\it(OpenCL, GPU, C\#, Kinect)}
+\\{\it MoshBall:} Developed a 3D game. Developed physics simulation, I/O interaction and background rendering for the game. {\it (C++, OpenGL, GLSL, Box2D)}  
+\\{\it Panoramic Image Stitching:} Registered and stitched together eighteen images into a $360\,^{\circ}$ panorama. {\it (MATLAB, SIFT)}
+\\{\it Music Recommendation System:} Recommeded top ten songs to a user using offline collaborative filtering, normalized conditional probabilities and k-NN on the listening history of users. {\it (Java, MySQL)}
 
+\section{Side Projects}
+HDR Image Fusion, Photo-metric Stereo, Spam Classification, Othello.
 \section{Co-Curricular}
 \begin{itemize} \itemsep -2pt  % reduce space between items
  \item Participated in UW-HuB Hackathon; designed and developed a 2D game in Java.
  \item Participated in University Hacker Olympics organized by HackerRank.
  \end{itemize}
 
- \section{References}
-Available on request.
+ %\section{References}
+%Available on request.
 
 
 \end{resume} 

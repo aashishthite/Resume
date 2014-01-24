@@ -1,17 +1,31 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.10.21)  22 JAN 2014 23:41
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.9.8)  23 JAN 2014 13:59
 entering extended mode
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **Resume.tex
 (./Resume.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2011-07-01, ngerman-x-2011-07-01, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
 (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
-(/usr/share/texmf-texlive/tex/latex/base/article.cls
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/article.
+cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/size10.c
+lo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -38,7 +52,9 @@ No auxiliary output files.
 \resumewidth=\dimen104
 \@columnwidth=\dimen105
 \c@numberofcolumns=\count87
-) (/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/fancyhdr/fanc
+yhdr.sty
 \fancy@headwidth=\skip44
 \f@ncyO@elh=\skip45
 \f@ncyO@erh=\skip46
@@ -75,7 +91,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--41
  []
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 52.
-(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/omscmr.f
+d
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -89,24 +107,28 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] ) 
+{/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-var/fonts/map/pdftex/updmap/
+pdftex.map}] ) 
 Here is how much of TeX's memory you used:
- 437 strings out of 495061
- 4678 string characters out of 1182620
- 56093 words of memory out of 3000000
- 3688 multiletter control sequences out of 15000+50000
+ 437 strings out of 493629
+ 4941 string characters out of 3134964
+ 57905 words of memory out of 3000000
+ 3815 multiletter control sequences out of 15000+200000
  5252 words of font info for 19 fonts, out of 3000000 for 9000
- 28 hyphenation exceptions out of 8191
+ 831 hyphenation exceptions out of 8191
  30i,10n,43p,240b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive
-/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/am
-sfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></u
-sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Resume.pdf (1 page, 89715 bytes).
+</afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></afs/cs.wisc.edu/s/texlive
+-2011/amd64_rhel5/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></afs/cs.
+wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy7.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Resume.pdf (1 page, 86102 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 32 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
